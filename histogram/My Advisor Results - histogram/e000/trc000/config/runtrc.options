@@ -1,0 +1,139 @@
+-r
+C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Advisor Results - histogram\e000\trc000
+--return-app-exitcode
+--cs-mode=no-count-loops,no-count-flops,stack-stitching
+--count-flops
+--benchmarks=dram,mcdram,cpu_cache,flop_peak,int
+--cs-file=C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Advisor Results - histogram\e000/callstacks.def
+--search-dir
+sym=C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release
+--search-dir
+sym=C:\Users\parham\documents\visual studio 2017\Projects\histogram
+--search-dir
+bin=C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release
+--search-dir
+bin=C:\Users\parham\documents\visual studio 2017\Projects\histogram
+--search-dir
+bin=C:/Users\parham\documents\visual studio 2017\Projects\histogram\histogram\$(VC_ExecutablePath_x64)
+--search-dir
+bin=C:/Users\parham\documents\visual studio 2017\Projects\histogram\histogram\$(WindowsSDK_ExecutablePath)
+--search-dir
+bin=C:/Users\parham\documents\visual studio 2017\Projects\histogram\histogram\$(VS_ExecutablePath)
+--search-dir
+bin=C:/Users\parham\documents\visual studio 2017\Projects\histogram\histogram\$(MSBuild_ExecutablePath)
+--search-dir
+bin=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Team Tools\Static Analysis Tools\FxCop
+--search-dir
+bin=E:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.2.190\windows\mpi\intel64\bin
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler
+--search-dir
+bin=C:\ProgramData\Oracle\Java\javapath
+--search-dir
+bin=C:\Program Files (x86)\Intel\iCLS Client
+--search-dir
+bin=C:\Program Files\Intel\iCLS Client
+--search-dir
+bin=C:\Windows\system32
+--search-dir
+bin=C:\Windows
+--search-dir
+bin=C:\Windows\System32\Wbem
+--search-dir
+bin=C:\Windows\System32\WindowsPowerShell\v1.0
+--search-dir
+bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+--search-dir
+bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+--search-dir
+bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT
+--search-dir
+bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT
+--search-dir
+bin=C:\Users\parham\.dnx\bin
+--search-dir
+bin=C:\Program Files\Microsoft DNX\Dnvm
+--search-dir
+bin=C:\Program Files\Microsoft SQL Server\120\Tools\Binn
+--search-dir
+bin=C:\Program Files\Microsoft SQL Server\130\Tools\Binn
+--search-dir
+bin=C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5
+--search-dir
+bin=C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP
+--search-dir
+bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+--search-dir
+bin=C:\Program Files (x86)\BaseX\bin
+--search-dir
+bin=C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit
+--search-dir
+bin=C:\Program Files\dotnet
+--search-dir
+bin=C:\Program Files\Apache\maven\bin
+--search-dir
+bin=C:\Program Files\gradle-4.2\bin
+--search-dir
+bin=C:\Program Files\Java\jdk1.8.0_77\bin
+--search-dir
+bin=C:\xampp\php
+--search-dir
+bin=C:\composer
+--search-dir
+bin=C:\jflex\bin
+--search-dir
+bin=D:\Program Files\MATLAB\R2017b\runtime\win64
+--search-dir
+bin=D:\Program Files\MATLAB\R2017b\bin
+--search-dir
+bin=C:\GnuWin32\bin
+--search-dir
+bin=C:\Program Files\PuTTY
+--search-dir
+bin=C:\netcat-1.11
+--search-dir
+bin=C:\WINDOWS\System32\OpenSSH
+--search-dir
+bin=C:\Program Files\Git\cmd
+--search-dir
+bin=C:\Program Files\MiKTeX 2.9\miktex\bin\x64
+--search-dir
+bin=C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+--search-dir
+bin=C:\Program Files\nodejs
+--search-dir
+bin=C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.1
+--search-dir
+bin=C:/Users\parham\documents\visual studio 2017\Projects\histogram\histogram\%PYTHON_HOME%
+--search-dir
+bin=C:\Users\parham\Anaconda2
+--search-dir
+bin=C:\Users\parham\Anaconda2\Library\mingw-w64\bin
+--search-dir
+bin=C:\Users\parham\Anaconda2\Library\usr\bin
+--search-dir
+bin=C:\Users\parham\Anaconda2\Library\bin
+--search-dir
+bin=C:\Users\parham\Anaconda2\Scripts
+--search-dir
+bin=C:\Program Files\modeltech64_10.1c\win64
+--search-dir
+bin=C:\modeltech64_10.1c\win64
+--search-dir
+bin=C:\Users\parham\AppData\Local\Microsoft\WindowsApps
+--search-dir
+bin=C:\Users\parham\AppData\Roaming\Composer\vendor\bin
+--search-dir
+bin=C:\Users\parham\AppData\Roaming\npm
+--search-dir
+bin=E:\Program Files\JetBrains\PyCharm 2018.3.3\bin
+--search-dir
+bin=C:\Program Files (x86)\Nmap
+--
+C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe

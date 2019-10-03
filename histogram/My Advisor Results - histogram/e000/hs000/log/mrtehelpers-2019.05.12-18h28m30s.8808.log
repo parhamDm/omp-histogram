@@ -1,0 +1,5 @@
+1006 [9388] TRACE mrtehelpers.mrteenv <> - ENTER: class mrtehelpers_3_0::BasicIterator<class mrtehelpers_3_0::MrteEnvironmentVariable> __cdecl mrtehelpers_3_0::MrteProfilingInitializer::getMrteProfilingEnvironment(void)
+1007 [9388] TRACE mrtehelpers.mrteenv <> - INTEL_MRTE_DATA_DIR=C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Advisor Results - histogram\e000\hs000\data.0\
+1007 [9388] TRACE mrtehelpers.mrteenv <> - INTEL_MRTE_HOST_NAME=Parham
+1033 [9388] TRACE mrtehelpers.mrteenv <> - JAVA_TOOL_OPTIONS=-agentlib:advixe_tpssmrte_javaprof_1.0
+1037 [9388] TRACE mrtehelpers.mrteenv <> - EXIT:  class mrtehelpers_3_0::BasicIterator<class mrtehelpers_3_0::MrteEnvironmentVariable> __cdecl mrtehelpers_3_0::MrteProfilingInitializer::getMrteProfilingEnvironment(void)

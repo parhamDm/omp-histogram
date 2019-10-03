@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2019/05/12 18:28:48</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>bandwidth-measurement-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>bandwidth-measurement-done</type>
+</msg>
+<msg id="4" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="5" tool="runtool">
+  <type>marker-file</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Advisor Results - histogram\e000\trc000\trc000.advixe</arg>
+</msg>
+<msg id="6" tool="trc">
+  <type>PROCESS_START</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>9000</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="7" tool="trc">
+  <type>PROCESS_ANALYSIS_MODE</type>
+  <arg>full</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="8" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>0x7ff776310000</arg>
+  <arg>0x7ff776317fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="9" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\KERNELBASE.dll</arg>
+  <arg>0x7ffbaa540000</arg>
+  <arg>0x7ffbaa7b2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="10" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\KERNEL32.DLL</arg>
+  <arg>0x7ffbac1f0000</arg>
+  <arg>0x7ffbac2a0fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="11" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\ntdll.dll</arg>
+  <arg>0x7ffbae170000</arg>
+  <arg>0x7ffbae350fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:01 2019</timestamp>
+</msg>
+<msg id="12" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\ucrtbase.dll</arg>
+  <arg>0x7ffbaab70000</arg>
+  <arg>0x7ffbaac67fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="13" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCOMP140.DLL</arg>
+  <arg>0x7ffb994d0000</arg>
+  <arg>0x7ffb994f7fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="14" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\USER32.dll</arg>
+  <arg>0x7ffbadfb0000</arg>
+  <arg>0x7ffbae13ffff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="15" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll</arg>
+  <arg>0x7ffb9c120000</arg>
+  <arg>0x7ffb9c135fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="16" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\win32u.dll</arg>
+  <arg>0x7ffbaa9b0000</arg>
+  <arg>0x7ffbaa9cffff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="17" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\GDI32.dll</arg>
+  <arg>0x7ffbab830000</arg>
+  <arg>0x7ffbab857fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="18" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\gdi32full.dll</arg>
+  <arg>0x7ffbaa9d0000</arg>
+  <arg>0x7ffbaab61fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="19" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\msvcp_win.dll</arg>
+  <arg>0x7ffbab4b0000</arg>
+  <arg>0x7ffbab54efff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="20" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\IMM32.DLL</arg>
+  <arg>0x7ffbab920000</arg>
+  <arg>0x7ffbab94cfff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:02 2019</timestamp>
+</msg>
+<msg id="21" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\kernel.appcore.dll</arg>
+  <arg>0x7ffbaa4c0000</arg>
+  <arg>0x7ffbaa4d0fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="22" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\msvcrt.dll</arg>
+  <arg>0x7ffbabda0000</arg>
+  <arg>0x7ffbabe3dfff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="23" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\RPCRT4.dll</arg>
+  <arg>0x7ffbab660000</arg>
+  <arg>0x7ffbab783fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="24" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="25" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\KERNELBASE.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="26" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\KERNEL32.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="27" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\ntdll.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="28" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\ucrtbase.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="29" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCOMP140.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="30" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\USER32.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="31" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="32" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\win32u.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="33" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\GDI32.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="34" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\gdi32full.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="35" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\msvcp_win.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="36" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\IMM32.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="37" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\kernel.appcore.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="38" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\msvcrt.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="39" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>C:\WINDOWS\System32\RPCRT4.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="40" tool="trc">
+  <type>PROCESS_FINISH</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>9000</arg>
+  <arg>0x0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:29:07 2019</timestamp>
+</msg>
+<msg id="41" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>0</arg>
+</msg>
+<msg id="42" tool="runtool">
+  <type>marker-file</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Advisor Results - histogram\e000\trc000\trc000.advixe</arg>
+</msg>
+<msg id="43" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="44" tool="runtool">
+  <type>log-end</type>
+  <arg>2019/05/12 18:29:11</arg>
+</msg>
+
+</log>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename="c:\users\parham\documents\visual studio 2017\projects\histogram\histogram\histogram.cpp"
+           line_no="53"
+           routine="main"
+           is_vectorized="0"
+           self_time="2.880760E-001"
+           total_time="1.244465E+000"
+           trip_counts="70000000"
+           func_instance="21"
+           priority="0"/>
+  <hotspot filename="c:\users\parham\documents\visual studio 2017\projects\histogram\histogram\histogram.cpp"
+           line_no="23"
+           routine="categorize$omp$1"
+           is_vectorized="0"
+           self_time="2.127669E-002"
+           total_time="2.127669E-002"
+           trip_counts="8750000"
+           func_instance="14"
+           priority="0"/>
+</IntelParallelAdvisorSummary >

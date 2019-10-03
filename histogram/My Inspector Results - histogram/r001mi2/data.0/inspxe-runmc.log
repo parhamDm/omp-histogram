@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2019/05/12 18:26:53</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Inspector Results - histogram\r001mi2\r001mi2.inspxe</arg>
+</msg>
+<msg id="4" tool="mc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>4088</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:53 2019</timestamp>
+</msg>
+<msg id="5" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>0x7ff776310000</arg>
+  <arg>0x7ff776317fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:53 2019</timestamp>
+</msg>
+<msg id="6" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\WINDOWS\System32\KERNELBASE.dll</arg>
+  <arg>0x7ffbaa540000</arg>
+  <arg>0x7ffbaa7b2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:53 2019</timestamp>
+</msg>
+<msg id="7" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\WINDOWS\System32\KERNEL32.DLL</arg>
+  <arg>0x7ffbac1f0000</arg>
+  <arg>0x7ffbac2a0fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:53 2019</timestamp>
+</msg>
+<msg id="8" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\ntdll.dll</arg>
+  <arg>0x7ffbae170000</arg>
+  <arg>0x7ffbae350fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:53 2019</timestamp>
+</msg>
+<msg id="9" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll</arg>
+  <arg>0x7ffb9c120000</arg>
+  <arg>0x7ffb9c135fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:54 2019</timestamp>
+</msg>
+<msg id="10" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCOMP140.DLL</arg>
+  <arg>0x7ffba7ac0000</arg>
+  <arg>0x7ffba7ae7fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:54 2019</timestamp>
+</msg>
+<msg id="11" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>2412760,363,525,213</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:56 2019</timestamp>
+</msg>
+<msg id="12" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4208845,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:57 2019</timestamp>
+</msg>
+<msg id="13" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4248105,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:58 2019</timestamp>
+</msg>
+<msg id="14" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4187445,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:26:59 2019</timestamp>
+</msg>
+<msg id="15" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4137771,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:00 2019</timestamp>
+</msg>
+<msg id="16" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4201010,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:01 2019</timestamp>
+</msg>
+<msg id="17" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4282601,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:02 2019</timestamp>
+</msg>
+<msg id="18" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4262899,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:03 2019</timestamp>
+</msg>
+<msg id="19" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4195352,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:04 2019</timestamp>
+</msg>
+<msg id="20" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4226907,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:05 2019</timestamp>
+</msg>
+<msg id="21" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4369286,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:06 2019</timestamp>
+</msg>
+<msg id="22" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4292124,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:07 2019</timestamp>
+</msg>
+<msg id="23" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4180470,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:08 2019</timestamp>
+</msg>
+<msg id="24" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4243302,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:09 2019</timestamp>
+</msg>
+<msg id="25" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4285495,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:10 2019</timestamp>
+</msg>
+<msg id="26" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4238679,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:11 2019</timestamp>
+</msg>
+<msg id="27" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3921625,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:12 2019</timestamp>
+</msg>
+<msg id="28" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3945136,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:13 2019</timestamp>
+</msg>
+<msg id="29" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3999206,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:14 2019</timestamp>
+</msg>
+<msg id="30" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4241511,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:15 2019</timestamp>
+</msg>
+<msg id="31" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4356240,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:16 2019</timestamp>
+</msg>
+<msg id="32" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4254736,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:17 2019</timestamp>
+</msg>
+<msg id="33" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4321420,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:18 2019</timestamp>
+</msg>
+<msg id="34" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4304613,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:19 2019</timestamp>
+</msg>
+<msg id="35" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4204923,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:20 2019</timestamp>
+</msg>
+<msg id="36" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4027594,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:21 2019</timestamp>
+</msg>
+<msg id="37" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4253824,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:22 2019</timestamp>
+</msg>
+<msg id="38" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4265163,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:23 2019</timestamp>
+</msg>
+<msg id="39" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4355854,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:24 2019</timestamp>
+</msg>
+<msg id="40" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4342137,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:25 2019</timestamp>
+</msg>
+<msg id="41" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4243403,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:26 2019</timestamp>
+</msg>
+<msg id="42" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3924938,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:27 2019</timestamp>
+</msg>
+<msg id="43" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4176656,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:28 2019</timestamp>
+</msg>
+<msg id="44" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4197057,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:29 2019</timestamp>
+</msg>
+<msg id="45" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4076488,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:30 2019</timestamp>
+</msg>
+<msg id="46" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3783853,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:31 2019</timestamp>
+</msg>
+<msg id="47" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>3995751,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:32 2019</timestamp>
+</msg>
+<msg id="48" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4034759,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:33 2019</timestamp>
+</msg>
+<msg id="49" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4441578,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:34 2019</timestamp>
+</msg>
+<msg id="50" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4404780,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:35 2019</timestamp>
+</msg>
+<msg id="51" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4462496,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:36 2019</timestamp>
+</msg>
+<msg id="52" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4458490,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:37 2019</timestamp>
+</msg>
+<msg id="53" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4416005,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:38 2019</timestamp>
+</msg>
+<msg id="54" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4509777,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:39 2019</timestamp>
+</msg>
+<msg id="55" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4480225,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:40 2019</timestamp>
+</msg>
+<msg id="56" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4321064,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:41 2019</timestamp>
+</msg>
+<msg id="57" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4476796,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:42 2019</timestamp>
+</msg>
+<msg id="58" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4610962,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:43 2019</timestamp>
+</msg>
+<msg id="59" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4471939,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:44 2019</timestamp>
+</msg>
+<msg id="60" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4552411,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:45 2019</timestamp>
+</msg>
+<msg id="61" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4355458,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:46 2019</timestamp>
+</msg>
+<msg id="62" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4457845,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:47 2019</timestamp>
+</msg>
+<msg id="63" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4280821,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:48 2019</timestamp>
+</msg>
+<msg id="64" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4491578,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:49 2019</timestamp>
+</msg>
+<msg id="65" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4405570,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:50 2019</timestamp>
+</msg>
+<msg id="66" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4442569,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:51 2019</timestamp>
+</msg>
+<msg id="67" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4359571,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:52 2019</timestamp>
+</msg>
+<msg id="68" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4540090,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:53 2019</timestamp>
+</msg>
+<msg id="69" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448,13940,11540</arg>
+  <arg>0,1,1,1</arg>
+  <arg>4210930,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:54 2019</timestamp>
+</msg>
+<msg id="70" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4241419,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:55 2019</timestamp>
+</msg>
+<msg id="71" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4327237,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:56 2019</timestamp>
+</msg>
+<msg id="72" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4294045,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:57 2019</timestamp>
+</msg>
+<msg id="73" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4339005,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:58 2019</timestamp>
+</msg>
+<msg id="74" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4088060,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:27:59 2019</timestamp>
+</msg>
+<msg id="75" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>10388,7448</arg>
+  <arg>0,1</arg>
+  <arg>4235554,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="76" tool="mc">
+  <type>PROCESS_COMPLETE</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <arg>0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="77" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="78" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\WINDOWS\System32\KERNELBASE.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="79" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\WINDOWS\System32\KERNEL32.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="80" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\ntdll.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="81" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="82" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\WINDOWS\SYSTEM32\VCOMP140.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>
+<msg id="83" tool="mc">
+  <type>ANALYSIS_COMPLETE</type>
+  <arg>C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun May 12 18:28:00 2019</timestamp>
+</msg>

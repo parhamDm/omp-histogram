@@ -1,0 +1,19 @@
+
+=== Start: [2019/05/12 18:26:53] === 
+Analysis started...
+Result file: C:\Users\parham\documents\visual studio 2017\Projects\histogram\histogram\My Inspector Results - histogram\r001mi2\r001mi2.inspxe 
+Analysis started for C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe (pid = 4088) 
+Loaded module: C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe, address range [0x7ff776310000-0x7ff776317fff] 
+Loaded module: C:\WINDOWS\System32\KERNELBASE.dll, address range [0x7ffbaa540000-0x7ffbaa7b2fff] 
+Loaded module: C:\WINDOWS\System32\KERNEL32.DLL, address range [0x7ffbac1f0000-0x7ffbac2a0fff] 
+Loaded module: C:\WINDOWS\SYSTEM32\ntdll.dll, address range [0x7ffbae170000-0x7ffbae350fff] 
+Loaded module: C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll, address range [0x7ffb9c120000-0x7ffb9c135fff] 
+Loaded module: C:\WINDOWS\SYSTEM32\VCOMP140.DLL, address range [0x7ffba7ac0000-0x7ffba7ae7fff] 
+Process C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe exited with code 0. Leak analysis starting. Please wait... 
+Unloaded module: C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe 
+Unloaded module: C:\WINDOWS\System32\KERNELBASE.dll 
+Unloaded module: C:\WINDOWS\System32\KERNEL32.DLL 
+Unloaded module: C:\WINDOWS\SYSTEM32\ntdll.dll 
+Unloaded module: C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll 
+Unloaded module: C:\WINDOWS\SYSTEM32\VCOMP140.DLL 
+Completed analysis for C:\Users\parham\documents\visual studio 2017\Projects\histogram\x64\Release\histogram.exe 
